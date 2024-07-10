@@ -1,0 +1,6 @@
+{
+    "ignore": ["APP/routes/imagens/nota_boleto/*", "APP/routes/imagens/nota_cartao/*"]
+  
+  }
+
+  
